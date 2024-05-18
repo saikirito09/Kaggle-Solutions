@@ -66,11 +66,3 @@ Your work in this project will help consumer finance providers improve their met
 2. **Exploratory Data Analysis (EDA)**: Analyze the data to identify patterns and relationships.
 3. **Model Development**: Develop and train models to predict loan defaults.
 4. **Model Evaluation**: Ensure the models are stable and perform well over time.
-
-### Contributions
-
-We welcome contributions from the community to improve the project. Please follow the guidelines for contributing and ensure all changes are well-documented.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
